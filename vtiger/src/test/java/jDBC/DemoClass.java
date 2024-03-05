@@ -6,5 +6,6 @@ public class DemoClass {
 		System.out.println("Demo 1st changes in global");
 		System.out.println("Demo 2nd changes in global");
 		System.out.println("Demo 3rd changes in global");
+		System.out.println("Demo 4th changes in global");
 	}
 }
